@@ -1,15 +1,15 @@
 
-<h1>Hi, I'm Dominic, an <a href="https://linkedin.com/in/dominic-gajar">IT Professional</a>☺</h1>
+<h1>Hi, I'm Dominic, an <a href="https://linkedin.com/in/dominic-gajar-467809285">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/dominicgajar/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/dominicgajar/post-install-config)
+  - [osTicket: Prerequisites and Installation](https://github.com/dgajar/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/dgajar/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/dominicgajar/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/dominicgajar/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dominicgajar/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/dgajar/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dgajar/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
